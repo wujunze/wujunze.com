@@ -91,7 +91,7 @@ button::-moz-focus-inner,input::-moz-focus-inner {
 }
 
 body {
-    font-family: "å¾®è½¯é›…é»‘",HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-family: "微软雅黑",-apple-system-font,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,sans-serif;
     font-size: 1pc;
     background: #fff;
     color: rgba(0,0,0,.6);
@@ -160,7 +160,7 @@ a {
 }
 
 #container #mobile-nav .overlay {
-    height: 110px;
+    height: 60px;
     position: absolute;
     width: 100%;
     background: #4d4d4d
@@ -278,7 +278,9 @@ a {
         border-left: none;
         padding: 0;
         border-bottom: 1px dotted #ddd;
-        width: 75%
+        width: 100%;
+        box-sizing: border-box;
+        padding-right: 4em
     }
 
     #container .article-header h1 {
@@ -302,7 +304,7 @@ a {
     }
 
     #container .article-more-link a {
-        float: right
+        display: inline-block
     }
 
     #container #viewer-box .viewer-box-l {
@@ -547,7 +549,7 @@ a {
     cursor: pointer;
     text-transform: uppercase;
     float: none;
-    height: 150px;
+    height: auto;
     margin-left: -9pt;
     text-align: center;
     display: -webkit-box;
