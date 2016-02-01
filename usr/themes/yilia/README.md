@@ -16,4 +16,4 @@ Yilia原来是一个Hexo的主题，作者为[Litten](http://litten.github.io/)
 
 ![Screenshot](https://github.com/lingmm/yilia-theme-port-to-typecho/raw/master/screenshot.png)
 
-DEMO ON <https://shyling.com>
+DEMO ON <https://wujunze.com>
