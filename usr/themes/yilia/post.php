@@ -48,13 +48,13 @@
     <script type="text/javascript">
     var jiathis_config = {data_track_clickback:'true'};
     </script>
-    <script type="text/javascript" src="https://v3.jiathis.com/code/jia.js?uid=<?php echo $this->options->jiathis;?>" charset="utf-8"></script>
+    <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=<?php echo $this->options->jiathis;?>" charset="utf-8"></script>
     <!-- JiaThis Button END -->
     </div>
 <?php endif; ?>
 <?php if(!empty($this->options->ujian)): ?>
 <!-- UJian Button BEGIN -->
-<script type="text/javascript" src="https://v1.ujian.cc/code/ujian.js?type=slide&btn=3&fade=1&uid=<?php echo $this->options->ujian ?>"></script>
+<script type="text/javascript" src="http://v1.ujian.cc/code/ujian.js?type=slide&btn=3&fade=1&uid=<?php echo $this->options->ujian ?>"></script>
 <!-- UJian Button END -->
 <?php endif; ?>
 <?php $this->need('comments.php'); ?>
