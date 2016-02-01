@@ -31,12 +31,7 @@
         <?php theNext($this);?>
     </nav>
     </article>
-
-<?php if(!empty($this->options->ujian)): ?>
-<!-- UJian Button BEGIN -->
-<script type="text/javascript" src="http://v1.ujian.cc/code/ujian.js?type=slide&btn=3&fade=1&uid=<?php echo $this->options->ujian ?>"></script>
-<!-- UJian Button END -->
-<?php endif; ?>
+    
 <?php $this->need('comments.php'); ?>
 </div>
 <?php $this->need('footer.php'); ?>
