@@ -1,0 +1,11 @@
+Version 0.2
+    -- 2014-01-04 12:28:30
+
+add: 是时候增加changelog了
+add: 增加选择主题颜色的功能
+add: Ctrl + Enter提交回复
+add: 增加导航栏右侧内容自定义
+fix: 友情链接资料不全时条目错位问题
+fix: 更改友情链接输出方式, 无需修改links插件
+fix: 更改导航栏折叠的宽度范围, 解决页面很多时错位问题
+optimize: 清除掉无用的class和id

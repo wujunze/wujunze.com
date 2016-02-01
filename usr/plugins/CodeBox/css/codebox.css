@@ -1,0 +1,52 @@
+/* codebox */
+.codebox {
+	color: #100;
+	width: 98%;
+	background-color: #f9f9f9;
+	border: 1px solid silver;
+	margin: 0 0 .5em 0;
+	overflow: auto;
+}
+
+.codebox table {
+	border-collapse: collapse;
+	border: none;
+	margin: 0px !important;
+	width: 100%;
+}
+
+.codebox div,.codebox td {
+	vertical-align: top;
+	padding: 2px 4px;
+}
+
+.codebox td.line_numbers {
+	text-align: right;
+	background-color: #def;
+	color: #666;
+	overflow: visible;
+	border-right: 1px solid #B0BEC7;
+	table-layout: auto;
+	width: 10px;
+}
+
+/* potential overrides for other styles */
+.codebox pre {
+	border: none;
+	background: none;
+	margin: 0;
+	padding: 0;
+	width: auto;
+	float: none;
+	clear: none;
+	overflow: visible;
+	font-size: 13px;
+	line-height: 1.333;
+	text-align:left;
+}
+
+.line_numbers pre {
+	padding: 0px;
+	margin: 0px;
+	text-align: right;
+}
