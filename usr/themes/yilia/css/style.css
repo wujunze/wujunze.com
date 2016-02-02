@@ -135,6 +135,13 @@ span.ua{
     border-radius: 4px;
     padding: 0 5px!important;
 }
+.sskadmin{
+    background-color: #00A67C!important;
+    border-color: #01B171!important;
+    border-radius: 4px;
+    padding: 0 5px!important;
+
+}
 /*多说UA结束*/
 body {
     width: 100%

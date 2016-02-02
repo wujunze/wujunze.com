@@ -1,3 +1,10 @@
+function sskadmin(e) {
+    var ssk = '';
+    if(e.user_id== 5320904){
+        ssk = '<span class="sskadmin">博主'
+    }
+    return ssk+"</span> ";
+}
 //移动客户端判断开始，作用：在移动客户端显示不同样式
 function sskcheckMobile(){
     var isiPad = navigator.userAgent.match(/iPad/i) != null;
@@ -1099,8 +1106,9 @@ function sskos(e) {
                             t += ">" + u(r.name) + "</a>") : (t += '<span class="ds-user-name"',
                         r.user_id && (t += ' data-user-id="' + r.user_id + '"'),
                             t += ' data-qqt-account="' + (r.qqt_account || "") + '">' + u(r.name) + "</span>"),
+                            t += sskadmin(r),
                             t += "<span class=\"ua\">" + sskua(s.agent) + "</span><span class=\"ua\">" + sskos(s.agent) + "</span>",
-                        t += "</div>",
+                            t += "</div>",
                     1 == i.max_depth && i.show_context && s.parents.length) {
                     t += '<ol id="ds-ctx">';
                     var n = lt.getJSON(s.parents);
