@@ -1,0 +1,5 @@
+# robots.txt generated at https://wujunze.com/
+User-agent: *
+Disallow: /admin/
+Disallow: /install/
+Sitemap: https://wujunze.com/feed/
