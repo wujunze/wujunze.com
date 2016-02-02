@@ -26,8 +26,8 @@
 		prettify: true,
 		base_url: "<?php $this->options->themeUrl();?>"
 	}</script>
-  <script src="//cdn.bootcss.com/require.js/2.1.20/require.min.js" type="text/javascript"></script>
-  <script src="//cdn.bootcss.com/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
+  <script src="<?php $this->options->themeUrl(); ?>js/require.min.js" type="text/javascript"></script>
+  <script src="<?php $this->options->themeUrl(); ?>js/jquery.min.js" type="text/javascript"></script>
   <script src="<?php $this->options->themeUrl(); ?>js/main.js" type="text/javascript" ></script>
 </div>
 </body>
