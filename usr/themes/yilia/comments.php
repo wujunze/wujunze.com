@@ -10,7 +10,7 @@ var duoshuoQuery = {short_name:"<?php echo $this->options->duoshuo ?>"};
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
-		ds.src = document.location.protocol + '//wujunze.com/duoshuo.js';
+		ds.src = document.location.protocol + '//wujunze.com/usr/themes/yilia/js/duoshuo.js';
 		ds.charset = 'UTF-8';
 		(document.getElementsByTagName('head')[0] 
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
