@@ -11,6 +11,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 <link rel="icon" href="<?php $this->options->themeUrl();?>favicon.ico"/>
 <link rel="stylesheet" href="<?php $this->options->themeUrl();?>css/style.css" type="text/css">
+  <link rel="stylesheet" href="<?php $this->options->themeUrl();?>css/font-awesome.css" type="text/css">
 <!--[if lte IE 8]><script>window.location.href='http://cdn.dmeng.net/upgrade-your-browser.html?referrer='+location.href;</script><![endif]-->
 <?php $this->header(); ?>
 <?php echo $this->options->analysis; ?>
