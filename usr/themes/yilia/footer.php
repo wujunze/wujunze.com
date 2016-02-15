@@ -47,8 +47,22 @@
       }
       show_date_time();
     </SCRIPT>
-
-    <script src="<?php $this->options->themeUrl(); ?>js/require.min.js" type="text/javascript"></script>
+    <script>
+        window.onblur = function() {
+            document.title = "发呆- ( ゜- ゜)つロ ";
+            $("#web-icon").attr('href',"<?php $this->options->themeUrl('loss.ico'); ?>");
+        window.onfocus = function() {
+            document.title = "<?php $this->archiveTitle(array(
+                                'category'=>_t('分类 %s 下的文章'),
+                                'search'=>_t('包含关键字 %s 的文章'),
+                                'tag' =>_t('标签 %s 下的文章'),
+                                'author'=>_t('%s 发布的文章')
+                                ), '', ' - '); ?><?php $this->options->title(); ?>";
+            $("#web-icon").attr('href',"<?php $this->options->siteUrl(); ?>favicon.ico");
+         }
+        };
+    </script>
+  <script src="<?php $this->options->themeUrl(); ?>js/require.min.js" type="text/javascript"></script>
   <script src="<?php $this->options->themeUrl(); ?>js/jquery.min.js" type="text/javascript"></script>
   <script src="<?php $this->options->themeUrl(); ?>js/main.js" type="text/javascript" ></script>
   <script src="<?php $this->options->themeUrl(); ?>js/number.js" type="text/javascript" ></script>
