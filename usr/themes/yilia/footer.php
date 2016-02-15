@@ -54,5 +54,6 @@
   <script src="<?php $this->options->themeUrl(); ?>js/number.js" type="text/javascript" ></script>
   <script src="<?php $this->options->themeUrl(); ?>js/jian-fan.js" type="text/javascript" ></script>
 </div>
+<?php $this->footer(); ?>
 </body>
 </html>
