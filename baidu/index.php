@@ -51,7 +51,7 @@
 		<footer>
 		<div style="display:none;">
 		</div>
-		© 2016 让我帮你百度一下 | <a href="https://github.com/aofall/lmbtfy">Github</a> | 作者：<a href="http://lmbtfy.retaker.me" target="_blank" rel="external nofollow">Retaker</a><br/>
+		© 2016 让我帮你百度一下 |Powered by <a href="https://www.wujunze.com">Wujunze</a> | Code：<a href="https://github.com/retaker/lmbtfy" target="_blank" rel="external nofollow">Retaker</a><br/>
 		本站与百度公司没有任何联系，Baidu以及本站出现的百度公司Logo是百度公司的商标。<br/>
 		copyleft, all rights reversed.
 	</footer>
