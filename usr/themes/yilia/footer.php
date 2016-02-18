@@ -95,7 +95,6 @@
   <script src="<?php $this->options->themeUrl(); ?>js/require.min.js" type="text/javascript"></script>
   <script src="<?php $this->options->themeUrl(); ?>js/jquery.min.js" type="text/javascript"></script>
   <script src="<?php $this->options->themeUrl(); ?>js/main.js" type="text/javascript" ></script>
-  <script src="<?php $this->options->themeUrl(); ?>js/number.js" type="text/javascript" ></script>
   <script src="<?php $this->options->themeUrl(); ?>js/jian-fan.js" type="text/javascript" ></script>
 </div>
 <?php $this->footer(); ?>
