@@ -4,4 +4,4 @@ Disallow: /admin/
 Disallow: /install/
 Disallow: /baidu/
 Disallow: /tools/
-Sitemap: https://wujunze.com/feed/
+Sitemap: https://wujunze.com/baidu_sitemap.xml
