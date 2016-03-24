@@ -993,6 +993,15 @@ a {
     position: relative;
     margin-bottom: 20px
 }
+.qq_box{
+    background: url("https://wujunze.com/usr/themes/yilia/qq.png") no-repeat scroll 10px center #FEE9EA;
+    border: 1px solid #DE888A;
+    color: #2E6093;
+    clear: both;
+    overflow: hidden;
+    padding: 10px 20px 10px 50px;
+    position: relative;
+}
 
 .article-header {
     border-left: 5px solid;
