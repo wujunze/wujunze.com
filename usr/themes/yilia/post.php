@@ -27,9 +27,9 @@
         </div>
     </div>
     <div class="qq_box">
-        让学习成为一种习惯! 欢迎加入IT技术交流群213470752
+        让学习成为一种习惯!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎加入IT技术交流群213470752&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=4312a8b3aaae6d87ef30798db32357f8b35c9c084c5c51f858d90a324ae4ed30">
-            <img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IT技术交流" title="IT技术交流">
+            <img border="0" src="https://wujunze.com/usr/themes/yilia/group.png" alt="IT技术交流" title="IT技术交流">
         </a>
     </div>
     <nav id="article-nav">
