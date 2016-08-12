@@ -866,12 +866,12 @@ function sskos(e) {
                         }
                         return rt.data.default_avatar_url.replace("http:", "https:")
                     } else {
-                        if (avatar_url.indexOf("q.qlogo.cn") != -1 || avatar_url.indexOf('doubanio') != -1) {
+                        if (avatar_url.indexOf("q.qlogo.cn") != -1 || avatar_url.indexOf('doubanio') != -1 || avatar_url.indexOf("app.qlogo.cn") != -1) {
                             return avatar_url.replace("http:", "https:")
                         } else if (avatar_url.indexOf("gravatar.com") != -1) {
                             return avatar_url.replace(/http:\/\/\w+\.gravatar\.com/,"//secure.gravatar.com")
                         } else {
-                            return "//static.shyling.com/" + avatar_url.replace("http://", "")
+                            return "//wujunze.com/headPhoto.php?url=" + avatar_url;
                         }
                     }
                 },
