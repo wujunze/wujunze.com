@@ -1,6 +1,6 @@
 <?php
 /**
- * 来自http://853.bronya.net的Sonic853做的WordPress博客琪亚娜小挂件
+ * 博客琪亚娜小挂件
  * 
  * @package kiana
  * @author jrotty

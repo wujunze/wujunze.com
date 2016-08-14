@@ -2,7 +2,7 @@
 /**
  * 七牛镜像加速,暂时只支持图片加速。
  * @package QiniuCDN
- * @author YoungZhao，typechodev.com优化
+ * @author YoungZhao
  * @version 1.0.1
  * @link http://www.typechodev.com
  *
