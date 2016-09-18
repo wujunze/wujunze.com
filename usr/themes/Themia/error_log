@@ -1,0 +1,53 @@
+[14-Jun-2016 12:59:32 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home/qqdiecom/public_html/usr/themes/Themia/timthumb.php/er/qrcode.php?) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 910
+[14-Jun-2016 12:59:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php:910) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 425
+[14-Jun-2016 13:00:02 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home/qqdiecom/public_html/usr/themes/Themia/timthumb.php/er/qrcode.php?) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 910
+[14-Jun-2016 13:00:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php:910) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 425
+[14-Jun-2016 13:00:16 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home/qqdiecom/public_html/usr/themes/Themia/timthumb.php/er/qrcode.php?) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 910
+[14-Jun-2016 13:00:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php:910) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 425
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/usr/themes/Themia/timthumb.php?src=https://static-2.iwch.me/jrotty/2016/05/3552161094.jpg) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 888
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home/qqdiecom/public_html/usr/themes/Themia/timthumb.php/usr/themes/Themia/timthumb.php?src=https://static-2.iwch.me/jrotty/2016/05/3552161094.jpg) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 911
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php:888) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 426
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/usr/themes/Themia/timthumb.php?src=https://static-2.iwch.me/jrotty/2016/05/488258476.png) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 888
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home/qqdiecom/public_html/usr/themes/Themia/timthumb.php/usr/themes/Themia/timthumb.php?src=https://static-2.iwch.me/jrotty/2016/05/488258476.png) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 911
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php:888) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 426
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/usr/themes/Themia/timthumb.php?src=https://static-2.iwch.me/jrotty/2016/04/604463932.jpg) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 888
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home/qqdiecom/public_html/usr/themes/Themia/timthumb.php/usr/themes/Themia/timthumb.php?src=https://static-2.iwch.me/jrotty/2016/04/604463932.jpg) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 911
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php:888) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 426
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/usr/themes/Themia/timthumb.php?src=https://static-2.iwch.me/jrotty/2016/04/1387732076.png) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 888
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home/qqdiecom/public_html/usr/themes/Themia/timthumb.php/usr/themes/Themia/timthumb.php?src=https://static-2.iwch.me/jrotty/2016/04/1387732076.png) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 911
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php:888) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 426
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/usr/themes/Themia/timthumb.php?src=https://static-2.iwch.me/jrotty/2016/04/3235706102.jpg) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 888
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home/qqdiecom/public_html/usr/themes/Themia/timthumb.php/usr/themes/Themia/timthumb.php?src=https://static-2.iwch.me/jrotty/2016/04/3235706102.jpg) is not within the allowed path(s): (/home/qqdiecom:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 911
+[20-Jun-2016 13:14:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php:888) in /home/qqdiecom/public_html/usr/themes/Themia/timthumb.php on line 426
+[07-Jul-2016 12:08:24 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/qqdiecom/public_html/usr/themes/Themia/comments.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/qqdiecom/public_html/usr/themes/Themia/comments.php on line 2
+[07-Jul-2016 12:08:56 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/qqdiecom/public_html/usr/themes/Themia/comments.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/qqdiecom/public_html/usr/themes/Themia/comments.php on line 2
+[11-Jul-2016 06:59:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function timer_stop() in /home/qqdiecom/public_html/usr/themes/Themia/footer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/qqdiecom/public_html/usr/themes/Themia/footer.php on line 6
+[11-Aug-2016 15:18:21 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/qqdiecom/public_html/usr/themes/Themia/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/qqdiecom/public_html/usr/themes/Themia/index.php on line 11
+[11-Aug-2016 15:18:41 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/qqdiecom/public_html/usr/themes/Themia/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/qqdiecom/public_html/usr/themes/Themia/index.php on line 11
+[11-Aug-2016 15:19:25 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/qqdiecom/public_html/usr/themes/Themia/header.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/qqdiecom/public_html/usr/themes/Themia/header.php on line 8
+[11-Aug-2016 15:20:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function timer_stop() in /home/qqdiecom/public_html/usr/themes/Themia/footer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/qqdiecom/public_html/usr/themes/Themia/footer.php on line 6
+[11-Aug-2016 15:20:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function timer_stop() in /home/qqdiecom/public_html/usr/themes/Themia/footer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/qqdiecom/public_html/usr/themes/Themia/footer.php on line 6
