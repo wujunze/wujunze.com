@@ -1092,7 +1092,7 @@ function sskos(e) {
                     , i = e.options
                     , r = s.author;
                 if (s.message.indexOf("http:") != -1) {
-                    s.message = s.message.replace(/src=(["|'])http:\/\//g, "src=$1//dn-inode.qbox.me/")
+                    s.message = s.message.replace(/src=(["|'])http:\/\//g, "src=$1//wujunze.com/headPhoto.php?url=http://")
                 }
                 if (t += '<li class="ds-post" data-post-id="' + s.post_id + '"><div class="ds-post-self" data-post-id="' + s.post_id + '" data-thread-id="' + s.thread_id + '" data-root-id="' + s.root_id + '" data-source="' + s.source + '"><div class="ds-avatar"',
                     r.user_id && (t += ' data-user-id="' + r.user_id + '"'),
@@ -2154,7 +2154,7 @@ function sskos(e) {
                         reset: function(e) {
                             function t(t, s) {
                                 var i = 0 === e.indexOf("微博") ? "http://img.t.sinajs.cn/t35/style/images/common/face/ext/normal/" + s.replace("_org", "_thumb") : S.STATIC_URL + "/images/smilies/" + s;
-                                i = i.replace("http://", "//dn-inode.qbox.me/");
+                                i = i.replace("http://", "//wujunze.com/headPhoto.php?url=http://");
                                 "WordPress" === e && (t = " " + t + " "),
                                     a += '<li><img src="' + i + '" title="' + _(t) + '" /></li>'
                             }
