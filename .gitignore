@@ -1,3 +1,6 @@
 .gitignore
 /baidu
 /tools
+/usr/uploads/
+.idea/
+config.inc.php
