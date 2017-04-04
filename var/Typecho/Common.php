@@ -947,6 +947,7 @@ EOF;
         $url .= '&amp;r=' . $rating;
         $url .= '&amp;d=' . $default;
 
+        $url = "//wujunze.com/headPhoto.php?url=".$url;
         return $url;
     }
 
