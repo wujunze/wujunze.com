@@ -270,7 +270,7 @@ function threadedComments($comments, $options){
     echo $commentClass;
 ?>">
     <div class="comment-avatar">
-		<img class="avatar" src="<?php echo Typecho_Common::gravatarUrl($comments->mail, $options->avatarSize, null,$options->defaultAvatar);?>" width="<?php echo $options->avatarSize;?>">
+		<?php echo Avatars_Plugin::avatars($options->avatarSize, null,$options->defaultAvatar,$comments);?>
 	</div>
     <div class="comment-meta">
         <div class="comment-meta-author"><?php $comments->author();?>

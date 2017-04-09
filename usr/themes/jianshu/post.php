@@ -5,7 +5,8 @@
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
         <div class="post-header">
 			<div class="post-author clearfix">
-				<a class="avatar fleft" href="<?php $this->author->permalink(); ?>"><img width="48" src="<?php echo Typecho_Common::gravatarUrl($this->author->mail,48,null,null); ?>" alt="" /></a>
+				<a class="avatar fleft" href="<?php $this->author->permalink(); ?>">
+                    <?php echo Avatars_Plugin::avatars(48, null,'https://wujunze.com/usr/uploads/2017/04/1532453181.png',$this->author);?>
 				<p><span class="label"><?php _e('作者');?></span> <a href="<?php $this->author->permalink(); ?>"><?php $this->author(); ?></a> <span title="<?php _e('最后编辑于');echo date('Y.m.d H:i:s',$this->modified); ?>"><?php $this->date('Y.m.d H:i:s'); ?></span></p>
 				<?php if(pluginExists('Jianshu')):?>
 				<p><?php _e('写了%d篇文章,',$this->author->postsNum);?><?php _e('回复%d人,',$this->author->commentsNum);?></p>
